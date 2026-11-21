@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-21T19:30:07.182531+00:00",
+  "title": "Design System: Perboni FLV E3",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "green": {
+        "role": "primary",
+        "displayName": "Green",
+        "tonalRamp": [
+          "oklch(15% 0.07 145)",
+          "oklch(26% 0.07 145)",
+          "oklch(37% 0.07 145)",
+          "oklch(49% 0.07 145)",
+          "oklch(61% 0.07 145)",
+          "oklch(73% 0.07 145)",
+          "oklch(85% 0.07 145)",
+          "oklch(95% 0.07 145)"
+        ]
+      },
+      "green-dark": {
+        "role": "primary",
+        "displayName": "Green Dark",
+        "tonalRamp": [
+          "oklch(15% 0.07 145)",
+          "oklch(26% 0.07 145)",
+          "oklch(37% 0.07 145)",
+          "oklch(49% 0.07 145)",
+          "oklch(61% 0.07 145)",
+          "oklch(73% 0.07 145)",
+          "oklch(85% 0.07 145)",
+          "oklch(95% 0.07 145)"
+        ]
+      },
+      "soft": {
+        "role": "neutral",
+        "displayName": "Soft",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Line",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "red": {
+        "role": "secondary",
+        "displayName": "Red",
+        "tonalRamp": [
+          "oklch(15% 0.07 30)",
+          "oklch(26% 0.07 30)",
+          "oklch(37% 0.07 30)",
+          "oklch(49% 0.07 30)",
+          "oklch(61% 0.07 30)",
+          "oklch(73% 0.07 30)",
+          "oklch(85% 0.07 30)",
+          "oklch(95% 0.07 30)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.07 40)",
+          "oklch(26% 0.07 40)",
+          "oklch(37% 0.07 40)",
+          "oklch(49% 0.07 40)",
+          "oklch(61% 0.07 40)",
+          "oklch(73% 0.07 40)",
+          "oklch(85% 0.07 40)",
+          "oklch(95% 0.07 40)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "tonalRamp": [
+          "oklch(15% 0.012 140)",
+          "oklch(26% 0.012 140)",
+          "oklch(37% 0.012 140)",
+          "oklch(49% 0.012 140)",
+          "oklch(61% 0.012 140)",
+          "oklch(73% 0.012 140)",
+          "oklch(85% 0.012 140)",
+          "oklch(95% 0.012 140)"
+        ]
+      },
+      "warning-bg": {
+        "role": "secondary",
+        "displayName": "Warning Bg",
+        "tonalRamp": [
+          "oklch(15% 0.07 75)",
+          "oklch(26% 0.07 75)",
+          "oklch(37% 0.07 75)",
+          "oklch(49% 0.07 75)",
+          "oklch(61% 0.07 75)",
+          "oklch(73% 0.07 75)",
+          "oklch(85% 0.07 75)",
+          "oklch(95% 0.07 75)"
+        ]
+      },
+      "warning-text": {
+        "role": "secondary",
+        "displayName": "Warning Text",
+        "tonalRamp": [
+          "oklch(15% 0.07 65)",
+          "oklch(26% 0.07 65)",
+          "oklch(37% 0.07 65)",
+          "oklch(49% 0.07 65)",
+          "oklch(61% 0.07 65)",
+          "oklch(73% 0.07 65)",
+          "oklch(85% 0.07 65)",
+          "oklch(95% 0.07 65)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Título principal",
+        "purpose": "Introdução de página."
+      },
+      "body": {
+        "displayName": "Leitura operacional",
+        "purpose": "Orientação e conteúdo de conferência."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "screen-enter",
+        "value": ".28s cubic-bezier(.16,1,.3,1)",
+        "purpose": "Entrada vertical de 5px; removida por prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide",
+        "value": "1280px"
+      },
+      {
+        "name": "compact-desktop",
+        "value": "1050px"
+      },
+      {
+        "name": "tablet",
+        "value": "800px"
+      },
+      {
+        "name": "phone",
+        "value": "580px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Ação explícita com foco visível.",
+      "html": "<button class=\"ds-button-primary\">Revisar pedido</button>",
+      "css": ".ds-button-primary{font-family:Arial,Helvetica,sans-serif;display:inline-flex;align-items:center;justify-content:center;min-height:46px;border:1px solid var(--green);border-radius:8px;background:var(--green);color:white;font-size:.9rem;font-weight:700;padding:11px 20px;line-height:1.4;cursor:pointer;}.ds-button-primary:hover{background:var(--green-dark);color:#fff}.ds-button-primary:focus-visible{outline:3px solid var(--focus,#b44413);outline-offset:4px}.ds-button-primary:disabled{opacity:.48;cursor:not-allowed}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Ação explícita com foco visível.",
+      "html": "<button class=\"ds-button-secondary\">Revisar pedido</button>",
+      "css": ".ds-button-secondary{font-family:Arial,Helvetica,sans-serif;display:inline-flex;align-items:center;justify-content:center;min-height:46px;border:1px solid var(--green);border-radius:8px;background:var(--green);color:white;font-size:.9rem;font-weight:700;padding:11px 20px;line-height:1.4;cursor:pointer;background:#fff;color:var(--green);border-color:#a9bba5;}.ds-button-secondary:hover{background:var(--soft)}.ds-button-secondary:focus-visible{outline:3px solid var(--focus,#b44413);outline-offset:4px}.ds-button-secondary:disabled{opacity:.48;cursor:not-allowed}"
+    },
+    {
+      "name": "Danger Button",
+      "kind": "button",
+      "refersTo": "button-danger",
+      "description": "Ação explícita com foco visível.",
+      "html": "<button class=\"ds-button-danger\">Revisar pedido</button>",
+      "css": ".ds-button-danger{font-family:Arial,Helvetica,sans-serif;display:inline-flex;align-items:center;justify-content:center;min-height:46px;border:1px solid var(--green);border-radius:8px;background:var(--green);color:white;font-size:.9rem;font-weight:700;padding:11px 20px;line-height:1.4;cursor:pointer;background:transparent;color:var(--red);border-color:#c58a81;}.ds-button-danger:hover{background:#fff0ec}.ds-button-danger:focus-visible{outline:3px solid var(--focus,#b44413);outline-offset:4px}.ds-button-danger:disabled{opacity:.48;cursor:not-allowed}"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Busca com rótulo forte.",
+      "html": "<label class=\"ds-label\" for=\"ds-search\">Buscar produto</label><input class=\"ds-input\" id=\"ds-search\" type=\"search\" placeholder=\"Digite o nome do produto\">",
+      "css": ".ds-label{font-family:Arial,Helvetica,sans-serif;display:block;color:var(--ink);font-size:.875rem;font-weight:700;margin-bottom:7px}.ds-input{font-family:Arial,Helvetica,sans-serif;background:#fff;border:1px solid #9cae9c;border-radius:8px;min-height:46px;padding:10px 12px;color:var(--ink);font-size:16px;max-width:100%}.ds-input:focus-visible{outline:3px solid var(--focus,#b44413);outline-offset:4px}"
+    },
+    {
+      "name": "Current Navigation",
+      "kind": "nav",
+      "description": "Página corrente marcada com linha e peso.",
+      "html": "<nav class=\"ds-nav\"><a href=\"#catalogo\" aria-current=\"page\">Catálogo</a><a href=\"#pedido\">Pedido</a></nav>",
+      "css": ".ds-nav{display:flex;gap:24px;font-family:Arial,Helvetica,sans-serif;}.ds-nav a{text-decoration:none;color:var(--muted);font-size:.9rem;padding:10px 0;border-bottom:2px solid transparent}.ds-nav a[aria-current]{color:var(--green);border-color:var(--green);font-weight:700}.ds-nav a:hover{color:var(--green)}.ds-nav a:focus-visible{outline:3px solid var(--focus,#b44413);outline-offset:4px}"
+    },
+    {
+      "name": "Order State",
+      "kind": "chip",
+      "refersTo": "badge-state",
+      "description": "Indicador textual não interativo.",
+      "html": "<span class=\"ds-state\">Aguardando contagem física</span>",
+      "css": ".ds-state{font-family:Arial,Helvetica,sans-serif;display:inline-flex;align-items:center;background:#e8efe3;border:1px solid #c3d4b9;border-radius:6px;padding:6px 10px;font-size:.8rem;font-weight:700;color:var(--green);white-space:normal}"
+    },
+    {
+      "name": "Panel",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "Superfície de revisão e conferência.",
+      "html": "<section class=\"ds-panel\"><h2>Itens do pedido</h2><p>Confira as quantidades apresentadas.</p></section>",
+      "css": ".ds-panel{font-family:Arial,Helvetica,sans-serif;color:var(--ink);background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:28px}.ds-panel h2{font-size:1.45rem;line-height:1.15;margin:0 0 16px;font-weight:700;letter-spacing:-.02em}.ds-panel p{line-height:1.6;margin:0}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Reposição com clareza",
+    "overview": "Um aplicativo operacional de reposição: superfícies claras, verde de ação e informação organizada para leitura e conferência. O símbolo verdadeiro da Perboni permanece como referência de identidade; as cores da interface são derivadas da marca, sem constituir um manual oficial.\n\nArial é continuidade explícita do protótipo E2. A densidade moderada, as fotografias ilustrativas dos produtos e os campos grandes favorecem o trabalho de selecionar, contar e comparar quantidades.",
+    "keyCharacteristics": [
+      "Verde funcional sobre superfícies claras.",
+      "Tipografia Arial herdada e números tabulares nas comparações.",
+      "Bordas discretas e profundidade tonal, sem sombras.",
+      "Conteúdo reorganizado para uso em celular."
+    ],
+    "rules": [
+      {
+        "name": "The Verde de ação Rule",
+        "body": "O verde concentra ações, navegação corrente e indicação de disponibilidade; divergências usam vermelho e avisos usam tons quentes.",
+        "section": "colors"
+      },
+      {
+        "name": "The Continuidade Rule",
+        "body": "A família Arial acompanha títulos, corpo e controles para manter a continuidade do protótipo E2.",
+        "section": "typography"
+      },
+      {
+        "name": "The Plano por padrão Rule",
+        "body": "A separação entre superfícies usa fundo e borda; não acrescentar sombras decorativas às superfícies operacionais.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preservar o símbolo original e a identificação Perboni FLV.",
+      "Do associar estados e divergências a texto explícito, além da cor.",
+      "Do conservar o foco visível e a redução de movimento."
+    ],
+    "donts": [
+      "Don't apresentar esta interface como manual oficial de marca.",
+      "Don't substituir a Arial herdada por uma nova fonte de identidade.",
+      "Don't usar fotografias ilustrativas como evidência de estoque real."
+    ]
+  }
+}
