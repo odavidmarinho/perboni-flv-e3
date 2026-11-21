@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Protótipo acadêmico Perboni FLV: pedidos, conferência de disponibilidade e aceite do comprador. Sem compras reais.">
+  <title>Registrar perda | Perboni FLV</title>
+  <link rel="icon" href="assets/perboni-logo.png" type="image/png">
+  <link rel="stylesheet" href="assets/vendor/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/app.js" defer></script>
+</head>
+<body data-page="perdas">
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <div class="demo-bar">Projeto acadêmico · dados fictícios · sem conexão com o APP da Perboni</div>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="Perboni FLV, catálogo">
+        <img src="assets/perboni-logo.png" alt="Símbolo da Perboni: esfera multicolorida com folha branca" width="46" height="46">
+        <span><strong>Perboni <span class="brand-flv">FLV</span></strong><small>Gestão de pedidos</small></span>
+      </a>
+      <button class="menu-toggle" type="button" aria-controls="navegacao" aria-expanded="false">Menu</button>
+      <nav id="navegacao" class="main-nav" aria-label="Navegação principal"><a href="index.html">Catálogo</a><a href="pedido.html">Meu pedido</a><a href="acompanhamento.html">Acompanhamento</a><a href="operacao.html" aria-current="page">Operação</a></nav>
+      <button class="reset-button" type="button" data-action="reset">Reiniciar demo</button>
+    </div>
+  </header>
+  <main id="conteudo" class="container-site" tabindex="-1">
+    <div id="storage-warning" class="alert alert-warning" role="alert" hidden></div>
+    <div id="screen"></div>
+    <noscript><h1>Registrar perda</h1><p>Ative o JavaScript para usar as interações deste protótipo.</p></noscript>
+  </main>
+  <footer class="site-footer"><div class="footer-inner"><p><strong>Perboni FLV</strong> · Desenvolvimento de Interfaces · E3</p><p>Simulação sem envio, reserva de estoque ou pagamento.</p><a href="perdas.html">Registrar perda</a></div></footer>
+  <div id="live-message" class="sr-only" role="status" aria-live="polite"></div>
+</body>
+</html>

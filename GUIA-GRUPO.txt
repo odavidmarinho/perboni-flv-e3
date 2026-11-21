@@ -1,0 +1,64 @@
+PERBONI FLV — COMO CONCLUIR A ENTREGA EM GRUPO
+
+O QUE DAVID ENVIA AOS COLEGAS
+
+1. Link do repositório público: https://github.com/odavidmarinho/perboni-flv-e3 .
+2. ZIP do projeto, como alternativa para baixar e testar.
+3. Estas instruções. Não é necessário enviar o arquivo .git.bundle aos colegas.
+
+Cada integrante precisa usar sua própria conta GitHub. O README já contém nomes e RAs, mas isso não substitui os commits exigidos. As revisões abaixo são trabalho a realizar: só registrar resultados depois de testar de verdade. Se encontrarem um erro, descrevam como reproduzir e corrijam ou abram uma issue.
+
+DIVISÃO SUGERIDA
+
+Luiz — navegação e teclado
+- Executar o site conforme README.
+- Percorrer o catálogo, a revisão, a operação e o aceite com Tab, Shift+Tab, Enter e Espaço.
+- Verificar foco visível, labels e possibilidade de chegar aos controles.
+- Criar revisoes/luiz.md com nome, RA, data real, navegador, passos executados, resultado observado e problemas encontrados. Registrar uma sugestão concreta se houver.
+
+Lukas — responsividade
+- Executar o site e abrir as ferramentas do navegador (F12), ativando a visualização responsiva.
+- Conferir as cinco páginas nas larguras 360, 768 e 1280 px.
+- Testar também o resultado de um pedido preenchido, o menu e o formulário de perdas; verificar leitura, botões e rolagem horizontal.
+- Criar revisoes/lukas.md com nome, RA, data real, navegador, páginas/larguras testadas, resultados e problemas. Anexar capturas se possível.
+
+Eduardo — regras de pedido e perdas
+- Pedir 10 kg de tomate e 5 kg de banana; contar 6 kg e 5 kg; conferir falta de 4 kg e bloqueio sem aceite.
+- Testar confirmação, cancelamento e contagem zerada.
+- Em outro pedido pendente verificado, registrar perda de 2 kg de tomate: saldo deve ficar em 18 kg e a conferência deve ser refeita.
+- Testar perda vazia, zero, fracionária e maior que o saldo.
+- Criar revisoes/eduardo.md com nome, RA, data real, navegador, cenários e resultados observados.
+
+Essas tarefas documentam validações técnicas reais, não testes de usabilidade com participantes. Não preencher como se fossem observações de clientes ou entrevistas. Cada integrante deve entender o fluxo geral para apresentar o projeto.
+
+COMO REGISTRAR A CONTRIBUIÇÃO SEM TERMINAL
+
+1. Aceitar o convite de colaboração que David enviar pelo GitHub.
+2. Entrar no repositório com sua própria conta.
+3. Clicar Add file > Create new file.
+4. No nome do arquivo, digitar revisoes/seu-nome.md.
+5. Escrever a revisão que realmente realizou. Não colar um resultado de teste não executado.
+6. Clicar Commit changes. Escrever uma mensagem clara, por exemplo: "Documenta revisão de teclado realizada por Luiz".
+7. Selecionar a opção de criar uma nova branch, por exemplo revisao-luiz, e iniciar Pull Request.
+8. Criar o Pull Request para David revisar. O commit fica com a autoria da conta usada.
+
+Se não houver convite, usar Fork e depois Pull Request é uma alternativa. Evitem editar todos o mesmo arquivo simultaneamente.
+
+O QUE DAVID FAZ DEPOIS
+
+1. Convida as contas corretas em Settings > Collaborators > Add people.
+2. Confere cada revisão e resolve os erros reais encontrados.
+3. Mescla os Pull Requests preservando os commits (Create a merge commit, sem squash).
+4. Abre o histórico e confirma que os quatro integrantes aparecem como autores de contribuições reais.
+5. Executa novamente os testes se houve alteração de código e atualiza a documentação se necessário.
+6. Na página do repositório, seleciona a branch main e clica Code > Download ZIP.
+7. Confere que o ZIP baixado contém as revisões mescladas e a versão final do site.
+8. Entrega o link público e esse ZIP final ao professor.
+
+O QUE NÃO É NECESSÁRIO ENTREGAR AO PROFESSOR
+
+- O bundle Git local, salvo se solicitado.
+- node_modules ou a pasta .git.
+- Senhas, tokens ou dados pessoais além da identificação acadêmica exigida.
+
+GitHub Pages é uma facilidade para visualizar o site, não uma exigência identificada no print da E3. O obrigatório é repositório público e ZIP com os mesmos arquivos.
