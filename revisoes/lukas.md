@@ -1,36 +1,32 @@
 Revisão de Responsividade — Lukas
 
-Responsável: Lukas
 Projeto: Perboni FLV — E3
-Dispositivo: iPhone
-Navegador: Safari
+Responsável: Lukas
+RA: 2260992
 
-1. Objetivo
+Testes realizados
 
-Verificar se o site da Perboni apresenta corretamente os textos, botões, formulários e demais elementos na tela de um dispositivo móvel.
+Celular — iPhone (Safari):
+As cinco páginas foram testadas e funcionaram normalmente.
 
-2. Testes realizados
+Tablet:
+O site foi testado e apresentou funcionamento normal, sem problemas 
 
-Catálogo: Os elementos apareceram corretamente e os botões funcionaram normalmente.
+Computador:
+O site foi testado e apresentou funcionamento normal, sem problemas relatados.
 
-Meu pedido: A página funcionou normalmente, sem problemas relatados.
+Páginas verificadas
 
-Acompanhamento: As informações apareceram corretamente e as funcionalidades testadas funcionaram.
+• Catálogo
+• Meu pedido
+• Acompanhamento
+• Operação
+• Registrar perda
 
-Operação: A página apresentou funcionamento normal no iPhone.
+Problemas encontrados
 
-Registrar perda: O formulário apareceu corretamente e os elementos testados funcionaram.
+Nenhum problema foi identificado durante os testes realizados.
 
-3. Problemas encontrados
+Conclusão
 
-Não foram relatados problemas durante os testes realizados no Safari do iPhone.
-
-4. Testes de largura
-
-* 360 px: Pendente
-* 768 px: Pendente
-* 1280 px: Pendente
-
-5. Conclusão
-
-Durante os testes realizados no iPhone, as cinco páginas apresentaram funcionamento normal, sem problemas relatados. Ainda é necessário verificar as larguras de 360, 768 e 1280 px para concluir a revisão de responsividade solicitada.
+O site da Perboni apresentou bom funcionamento nos dispositivos testados: celular, tablet e computador. As páginas abriram normalmente e não foram relatados problemas de responsividade.
