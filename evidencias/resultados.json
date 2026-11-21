@@ -1,0 +1,380 @@
+{
+  "browser": "158.0.4370.33",
+  "date": "2026-11-21T19:30:14.244Z",
+  "checks": 93,
+  "results": [
+    {
+      "name": "Pedido vazio bloqueado",
+      "result": "aprovado"
+    },
+    {
+      "name": "Quantidade inválida bloqueada: -1",
+      "result": "aprovado"
+    },
+    {
+      "name": "Quantidade inválida bloqueada: 1.5",
+      "result": "aprovado"
+    },
+    {
+      "name": "Quantidade inválida bloqueada: vazia",
+      "result": "aprovado"
+    },
+    {
+      "name": "Filtro revela campo inválido para correção",
+      "result": "aprovado"
+    },
+    {
+      "name": "Busca filtra produtos",
+      "result": "aprovado"
+    },
+    {
+      "name": "Busca sem resultados apresenta recuperação",
+      "result": "aprovado"
+    },
+    {
+      "name": "Categoria filtra sem apagar quantidades",
+      "result": "aprovado"
+    },
+    {
+      "name": "Envio permanece pendente sem confirmar compra",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem contagem não há aceite",
+      "result": "aprovado"
+    },
+    {
+      "name": "Contagem vazia bloqueada nativamente",
+      "result": "aprovado"
+    },
+    {
+      "name": "Contagem negativa bloqueada",
+      "result": "aprovado"
+    },
+    {
+      "name": "Divergência explícita: faltam 4 kg",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem aceite a confirmação fica desabilitada",
+      "result": "aprovado"
+    },
+    {
+      "name": "Aceite habilita confirmação",
+      "result": "aprovado"
+    },
+    {
+      "name": "Retirar aceite bloqueia confirmação",
+      "result": "aprovado"
+    },
+    {
+      "name": "Confirmação apresenta protocolo",
+      "result": "aprovado"
+    },
+    {
+      "name": "Confirmação persiste entre páginas",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido encerrado bloqueia nova contagem",
+      "result": "aprovado"
+    },
+    {
+      "name": "Todos zerados bloqueiam aceite",
+      "result": "aprovado"
+    },
+    {
+      "name": "Cancelamento encerra sem compra",
+      "result": "aprovado"
+    },
+    {
+      "name": "Atendimento limitado à quantidade solicitada",
+      "result": "aprovado"
+    },
+    {
+      "name": "Nova contagem limpa resultado anterior",
+      "result": "aprovado"
+    },
+    {
+      "name": "Recarregar preserva resultado mas exige novo aceite",
+      "result": "aprovado"
+    },
+    {
+      "name": "Perda superior ao saldo bloqueada",
+      "result": "aprovado"
+    },
+    {
+      "name": "Perda zero bloqueada",
+      "result": "aprovado"
+    },
+    {
+      "name": "Perda fracionária bloqueada",
+      "result": "aprovado"
+    },
+    {
+      "name": "Unidade acompanha produto da perda",
+      "result": "aprovado"
+    },
+    {
+      "name": "Perda registrada com saldo restante",
+      "result": "aprovado"
+    },
+    {
+      "name": "Perda invalida verificação e aceite pendentes",
+      "result": "aprovado"
+    },
+    {
+      "name": "Histórico apresenta motivo da perda",
+      "result": "aprovado"
+    },
+    {
+      "name": "Perda igual ao saldo permite zerar",
+      "result": "aprovado"
+    },
+    {
+      "name": "Reinício limpa pedido e perdas",
+      "result": "aprovado"
+    },
+    {
+      "name": "Botão de incremento atualiza DOM e resumo",
+      "result": "aprovado"
+    },
+    {
+      "name": "Decremento restaura resumo vazio",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: index.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: index.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: index.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: pedido.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: pedido.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: pedido.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: acompanhamento.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: acompanhamento.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: acompanhamento.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: operacao.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: operacao.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: operacao.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: perdas.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: perdas.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: perdas.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: index.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: index.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: index.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: pedido.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: pedido.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: pedido.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: acompanhamento.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: acompanhamento.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: acompanhamento.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: operacao.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: operacao.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: operacao.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: perdas.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: perdas.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: perdas.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: index.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: index.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: index.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: pedido.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: pedido.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: pedido.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: acompanhamento.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: acompanhamento.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: acompanhamento.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: operacao.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: operacao.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: operacao.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem overflow: perdas.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Semântica e imagens: perdas.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Sem CSS inline: perdas.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Menu móvel abre com ARIA sincronizado",
+      "result": "aprovado"
+    },
+    {
+      "name": "Atalho para conteúdo acessível por teclado",
+      "result": "aprovado"
+    },
+    {
+      "name": "Atalho move foco ao conteúdo",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: pedido.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: acompanhamento.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: operacao.html / 360px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: pedido.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: acompanhamento.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: operacao.html / 768px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: pedido.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: acompanhamento.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Pedido preenchido sem overflow: operacao.html / 1280px",
+      "result": "aprovado"
+    },
+    {
+      "name": "Nenhum erro JS ou recurso HTTP ausente",
+      "result": "aprovado"
+    }
+  ],
+  "errors": []
+}
