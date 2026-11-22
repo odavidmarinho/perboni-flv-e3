@@ -47,9 +47,14 @@ Revisão visual independente sobre capturas de desktop, celular e tablet e inspe
 - Navegador testado: Edge no Windows. Não há afirmação de cobertura de todos os dispositivos ou navegadores.
 - Backend, autenticação, envio, pagamento, integração ao APP e estoque real não fazem parte deste protótipo e não foram testados.
 - A validação de 93 verificações foi executada localmente. Publicação do repositório não equivale a teste de hospedagem; GitHub Pages é opcional.
-- A exigência de commits de todos os integrantes precisa ser cumprida com contribuições e autoria reais; não foi simulada.
+- As contribuições dos quatro integrantes constam na branch `main`, com as revisões originais e as notas de complementação identificadas em `revisoes/`. Os resultados manuais dos colegas são relatos deles; as execuções automatizadas têm evidências próprias.
 
 ## Como reproduzir
 
 Veja `README.md`: inicie o servidor, instale a dependência de testes e execute `npm test`. Cada execução gera seu próprio relatório e capturas; não substitui automaticamente as evidências entregues.
 
+
+
+## Revisões incorporadas ao fechamento
+
+Em 22/11/2026, as revisões de Eduardo, Lukas e Luiz já estão incorporadas à versão principal com autoria preservada. O fechamento alterou apenas documentação; não houve alteração do código da aplicação após a execução online de 93 verificações registrada em `evidencias/complemento-eduardo.json`. Os limites das observações manuais constam nos respectivos relatórios.

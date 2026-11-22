@@ -114,8 +114,17 @@ Identificação transcrita das entregas anteriores:
 | Lukas Ferreira de Souza | 22609192 |
 | Eduardo Simari de Lourenço Rocha | 22610027 |
 
-Implementação E3 preparada com assistência de IA a pedido do solicitante, com base nas entregas fornecidas. Os créditos não afirmam participação individual em alterações que ainda não foram feitas pelos integrantes. O histórico deve receber commits reais de cada membro; não foram fabricadas autorias. Veja `PUBLICAR.md`.
+Implementação E3 preparada com assistência de IA a pedido do solicitante, com base nas entregas fornecidas. Os créditos não afirmam participação individual em alterações que ainda não foram feitas pelos integrantes. O histórico da branch `main` contém contribuições das quatro contas: `odavidmarinho`, `EduardoSimari`, `lukasferreira00` e `luizvncsmds`. As revisões dos colegas estão em `revisoes/`, incorporadas pelos PRs nº 1, 2/3 e 4, com autoria preservada. As complementações assistidas por IA estão identificadas. Veja `PUBLICAR.md`.
 
 ## Situação da publicação
 
-Repositório público: https://github.com/odavidmarinho/perboni-flv-e3 . Publicação preparada pela conta autenticada no navegador. Os commits públicos de envio dos arquivos pertencem ao solicitante; o bundle entregue preserva separadamente o histórico local de implementação. Siga `GUIA-GRUPO.txt` e `PUBLICAR.md` para as contribuições reais dos demais integrantes e para gerar o ZIP final após mesclá-las.
+Repositório público: https://github.com/odavidmarinho/perboni-flv-e3 . Publicação preparada pela conta autenticada no navegador. Os commits públicos de envio dos arquivos pertencem ao solicitante; o bundle entregue preserva separadamente o histórico local de implementação. As contribuições dos três colegas foram incorporadas em 21 e 22/11/2026. O ZIP final é gerado da mesma versão da branch `main`. O guia do grupo permanece como registro do procedimento utilizado.
+
+
+## Entrega final — 22/11/2026
+
+Repositório público: https://github.com/odavidmarinho/perboni-flv-e3
+
+Site: https://odavidmarinho.github.io/perboni-flv-e3/
+
+Entregar o link do repositório e o ZIP da mesma versão. README, MUDANCAS, código, evidências e revisões dos integrantes já estão incluídos no pacote. Não é necessário enviar o bundle Git ao professor.

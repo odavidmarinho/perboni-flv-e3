@@ -37,4 +37,4 @@ Referência: PDF de 19 páginas e arquivos `prototipo/index.html`, `style.css` e
 
 As mudanças derivam de implementação e inspeção técnica, não de testes com pessoas. Não foram inventados participantes ou resultados de usabilidade. A E2 já registrava essa ausência.
 
-O repositório público e os commits reais de todos os integrantes dependem de acesso e participação das pessoas. Nenhuma autoria dos colegas foi simulada. Os passos estão em `PUBLICAR.md`.
+Fechamento em 22/11/2026: repositório público e GitHub Pages publicados; as contribuições de Eduardo, Lukas e Luiz foram incorporadas à `main`, com autoria preservada. As revisões e os limites dos relatos constam em `revisoes/`. As complementações assistidas por IA estão identificadas e não são atribuídas aos colegas. Veja `PUBLICAR.md`.
